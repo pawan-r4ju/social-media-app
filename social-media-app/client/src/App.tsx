@@ -10,7 +10,7 @@ function App() {
   }, []);
 
   return (
-    <div>
+    <div><h1>this is frontend</h1>
       <h1>React + TypeScript + Node.js</h1>
       <p>Backend says: {message}</p>
     </div>
