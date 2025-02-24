@@ -1,3 +1,3 @@
 const notificationRoutes = () => {};
 
-module.exports = notificationRoutes;
+export default  notificationRoutes;

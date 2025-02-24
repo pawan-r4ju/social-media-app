@@ -1,3 +1,3 @@
 const postRoutes = () => {};
 
-module.exports = postRoutes;
+export default  postRoutes;

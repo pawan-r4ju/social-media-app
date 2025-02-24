@@ -1,3 +1,3 @@
 const chatRoutes = () => {};
 
-module.exports = chatRoutes;
+export default  chatRoutes;

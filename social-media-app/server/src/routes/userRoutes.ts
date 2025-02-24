@@ -1,3 +1,3 @@
 const userRoutes = () => {};
 
-module.exports = userRoutes;
+export default  userRoutes;
